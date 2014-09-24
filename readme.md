@@ -22,6 +22,7 @@ Det samme var oppe i 2011 - TODO, links og stuff
 * 17/09 - Erik Kjær Pedersen (Institutleder på MATH) ["Der er ingen fordele ved den her fusion"](http://universitetsavisen.dk/videnskab/institutleder-der-er-ingen-fordele-ved-den-her-fusion)
 * 19/09 - Torben Mogensen (Studieleder for bach. udd. på datalogi) ["Here we go again"](http://www.version2.dk/blog/here-we-go-again-68708)
 * 22/09 - Martin Zachariasen (Institutleder på DIKU) ["Fusion koster tillid til dekan"](http://universitetsavisen.dk/politik/datalogis-institutleder-fusion-koster-tillid-til-dekan)
+* 24/09 Mikkel Storgaard Knudsen (Datalogi studerende) ["Når ettaller og nuller giver grund til tvangsægteskab"](http://universitetsavisen.dk/debat/nar-ettaller-og-nuller-giver-grund-til-tvangsaegteskab)
 
 ### Information fra KU:
 
@@ -32,7 +33,8 @@ Det samme var oppe i 2011 - TODO, links og stuff
 
 ## Ordforklaringer
 
-* VIP: Videnskabeligt Personale
-* STÅ: Studenter årsværk (fuldtidsstuderende, dvs. studerende der har bestået alle årets eksamener) [kilde](http://tal.ku.dk/studerende/F_studerende/)
+* VIP: VIdenskabeligt Personale
+* TAP: Teknisk-Administrative Personale
+* STÅ: STudenter Årsværk (fuldtidsstuderende, dvs. studerende der har bestået alle årets eksamener) [kilde](http://tal.ku.dk/studerende/F_studerende/)
 
  [math-diku-invitation]: https://intranet.ku.dk/science/dk/studerende/studiebeskeder/Sider/invitation-mode-fusion-MATH-DIKU2.aspx
