@@ -23,6 +23,7 @@ Det samme var oppe i 2011 - TODO, links og stuff
 * 19/09 - Torben Mogensen (Studieleder for bach. udd. på datalogi) ["Here we go again"](http://www.version2.dk/blog/here-we-go-again-68708)
 * 22/09 - Martin Zachariasen (Institutleder på DIKU) ["Fusion koster tillid til dekan"](http://universitetsavisen.dk/politik/datalogis-institutleder-fusion-koster-tillid-til-dekan)
 * 24/09 - Mikkel Storgaard Knudsen (Datalogi studerende) ["Når ettaller og nuller giver grund til tvangsægteskab"](http://universitetsavisen.dk/debat/nar-ettaller-og-nuller-giver-grund-til-tvangsaegteskab)
+* 01/10 - Dekanatet på SCIENCE ["Derfor ønsker SCIENCEs direktion at fusionere Institut for Matematiske Fag og Datalogisk Institut"](http://universitetsavisen.dk/debat/derfor-onsker-sciences-direktion-fusionere-institut-matematiske-fag-og-datalogisk-institut)
 * 02/10 - ComputerWorld ["Forslag skaber kritik: Datalogi skal nedlægges som selvstændigt institut på Københavns Universitet"](http://www.computerworld.dk/art/232045/forslag-skaber-kritik-datalogi-skal-nedlaegges-som-selvstaendigt-institut-paa-koebenhavns-universitet) 
 
 ### Information fra KU:
